@@ -1,0 +1,2 @@
+# Dynamic-Credible-Spectrum-Sharing-Based-on-Smart-Contract
+This repository content is related to the paper "Dynamic Credible Spectrum Sharing Based on Smart Contract in Vehicular Networks." The Stackelberg game process refers to Fig. Stackelberg Gaming Process in spectrum trading, and for the algorithm process, we have provided the pseudocode "SpectrumSharingContract.sol." This pseudocode is used to illustrate the basic process of dynamic spectrum sharing and can be extended and optimized according to specific requirements.
